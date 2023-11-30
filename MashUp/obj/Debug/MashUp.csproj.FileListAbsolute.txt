@@ -1,0 +1,256 @@
+C:\Users\Equipo\source\repos\MashUp\MashUp\bin\MashUp.dll.config
+C:\Users\Equipo\source\repos\MashUp\MashUp\bin\MashUp.dll
+C:\Users\Equipo\source\repos\MashUp\MashUp\bin\MashUp.pdb
+C:\Users\Equipo\source\repos\MashUp\MashUp\bin\roslyn\csc.exe
+C:\Users\Equipo\source\repos\MashUp\MashUp\bin\roslyn\csc.exe.config
+C:\Users\Equipo\source\repos\MashUp\MashUp\bin\roslyn\csc.rsp
+C:\Users\Equipo\source\repos\MashUp\MashUp\bin\roslyn\csi.exe
+C:\Users\Equipo\source\repos\MashUp\MashUp\bin\roslyn\csi.exe.config
+C:\Users\Equipo\source\repos\MashUp\MashUp\bin\roslyn\csi.rsp
+C:\Users\Equipo\source\repos\MashUp\MashUp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Equipo\source\repos\MashUp\MashUp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Equipo\source\repos\MashUp\MashUp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Equipo\source\repos\MashUp\MashUp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Equipo\source\repos\MashUp\MashUp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Equipo\source\repos\MashUp\MashUp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Equipo\source\repos\MashUp\MashUp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Equipo\source\repos\MashUp\MashUp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Equipo\source\repos\MashUp\MashUp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Equipo\source\repos\MashUp\MashUp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Equipo\source\repos\MashUp\MashUp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Equipo\source\repos\MashUp\MashUp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Equipo\source\repos\MashUp\MashUp\bin\roslyn\System.AppContext.dll
+C:\Users\Equipo\source\repos\MashUp\MashUp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Equipo\source\repos\MashUp\MashUp\bin\roslyn\System.Console.dll
+C:\Users\Equipo\source\repos\MashUp\MashUp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Equipo\source\repos\MashUp\MashUp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Equipo\source\repos\MashUp\MashUp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Equipo\source\repos\MashUp\MashUp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Equipo\source\repos\MashUp\MashUp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Equipo\source\repos\MashUp\MashUp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Equipo\source\repos\MashUp\MashUp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Equipo\source\repos\MashUp\MashUp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Equipo\source\repos\MashUp\MashUp\bin\roslyn\System.Net.Http.dll
+C:\Users\Equipo\source\repos\MashUp\MashUp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Equipo\source\repos\MashUp\MashUp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Equipo\source\repos\MashUp\MashUp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Equipo\source\repos\MashUp\MashUp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Equipo\source\repos\MashUp\MashUp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Equipo\source\repos\MashUp\MashUp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Equipo\source\repos\MashUp\MashUp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Equipo\source\repos\MashUp\MashUp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Equipo\source\repos\MashUp\MashUp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Equipo\source\repos\MashUp\MashUp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Equipo\source\repos\MashUp\MashUp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Equipo\source\repos\MashUp\MashUp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Equipo\source\repos\MashUp\MashUp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Equipo\source\repos\MashUp\MashUp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Equipo\source\repos\MashUp\MashUp\bin\roslyn\vbc.exe
+C:\Users\Equipo\source\repos\MashUp\MashUp\bin\roslyn\vbc.exe.config
+C:\Users\Equipo\source\repos\MashUp\MashUp\bin\roslyn\vbc.rsp
+C:\Users\Equipo\source\repos\MashUp\MashUp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Equipo\source\repos\MashUp\MashUp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Equipo\source\repos\MashUp\MashUp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Equipo\source\repos\MashUp\MashUp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Equipo\source\repos\MashUp\MashUp\obj\Debug\MashUp.csproj.AssemblyReference.cache
+C:\Users\Equipo\source\repos\MashUp\MashUp\obj\Debug\MashUp.csproj.CoreCompileInputs.cache
+C:\Users\Equipo\source\repos\MashUp\MashUp\obj\Debug\MashUp.csproj.CopyComplete
+C:\Users\Equipo\source\repos\MashUp\MashUp\obj\Debug\MashUp.dll
+C:\Users\Equipo\source\repos\MashUp\MashUp\obj\Debug\MashUp.pdb
+C:\Users\Equipo\source\repos\MashUp\MashUp\bin\Newtonsoft.Json.dll
+C:\Users\Equipo\source\repos\MashUp\MashUp\bin\Newtonsoft.Json.xml
+C:\Users\D5-211\Desktop\aplicacion\MashUp\bin\MashUp.dll.config
+C:\Users\D5-211\Desktop\aplicacion\MashUp\bin\MashUp.dll
+C:\Users\D5-211\Desktop\aplicacion\MashUp\bin\MashUp.pdb
+C:\Users\D5-211\Desktop\aplicacion\MashUp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\D5-211\Desktop\aplicacion\MashUp\bin\Newtonsoft.Json.dll
+C:\Users\D5-211\Desktop\aplicacion\MashUp\bin\Newtonsoft.Json.xml
+C:\Users\D5-211\Desktop\aplicacion\MashUp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\D5-211\Desktop\aplicacion\MashUp\obj\Debug\MashUp.csprojAssemblyReference.cache
+C:\Users\D5-211\Desktop\aplicacion\MashUp\obj\Debug\MashUp.csproj.CoreCompileInputs.cache
+C:\Users\D5-211\Desktop\aplicacion\MashUp\obj\Debug\MashUp.csproj.CopyComplete
+C:\Users\D5-211\Desktop\aplicacion\MashUp\obj\Debug\MashUp.dll
+C:\Users\D5-211\Desktop\aplicacion\MashUp\obj\Debug\MashUp.pdb
+C:\Users\Equipo\Desktop\mashup\aplicacion\MashUp\bin\MashUp.dll.config
+C:\Users\Equipo\Desktop\mashup\aplicacion\MashUp\bin\MashUp.dll
+C:\Users\Equipo\Desktop\mashup\aplicacion\MashUp\bin\MashUp.pdb
+C:\Users\Equipo\Desktop\mashup\aplicacion\MashUp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Equipo\Desktop\mashup\aplicacion\MashUp\bin\Newtonsoft.Json.dll
+C:\Users\Equipo\Desktop\mashup\aplicacion\MashUp\bin\Newtonsoft.Json.xml
+C:\Users\Equipo\Desktop\mashup\aplicacion\MashUp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Equipo\Desktop\mashup\aplicacion\MashUp\obj\Debug\MashUp.csproj.AssemblyReference.cache
+C:\Users\Equipo\Desktop\mashup\aplicacion\MashUp\obj\Debug\MashUp.csproj.CoreCompileInputs.cache
+C:\Users\Equipo\Desktop\mashup\aplicacion\MashUp\obj\Debug\MashUp.csproj.CopyComplete
+C:\Users\Equipo\Desktop\mashup\aplicacion\MashUp\obj\Debug\MashUp.dll
+C:\Users\Equipo\Desktop\mashup\aplicacion\MashUp\obj\Debug\MashUp.pdb
+C:\Users\Equipo\Desktop\mashup\aplicacion\MashUp\bin\roslyn\csc.exe
+C:\Users\Equipo\Desktop\mashup\aplicacion\MashUp\bin\roslyn\csc.exe.config
+C:\Users\Equipo\Desktop\mashup\aplicacion\MashUp\bin\roslyn\csc.rsp
+C:\Users\Equipo\Desktop\mashup\aplicacion\MashUp\bin\roslyn\csi.exe
+C:\Users\Equipo\Desktop\mashup\aplicacion\MashUp\bin\roslyn\csi.exe.config
+C:\Users\Equipo\Desktop\mashup\aplicacion\MashUp\bin\roslyn\csi.rsp
+C:\Users\Equipo\Desktop\mashup\aplicacion\MashUp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Equipo\Desktop\mashup\aplicacion\MashUp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Equipo\Desktop\mashup\aplicacion\MashUp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Equipo\Desktop\mashup\aplicacion\MashUp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Equipo\Desktop\mashup\aplicacion\MashUp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Equipo\Desktop\mashup\aplicacion\MashUp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Equipo\Desktop\mashup\aplicacion\MashUp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Equipo\Desktop\mashup\aplicacion\MashUp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Equipo\Desktop\mashup\aplicacion\MashUp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Equipo\Desktop\mashup\aplicacion\MashUp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Equipo\Desktop\mashup\aplicacion\MashUp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Equipo\Desktop\mashup\aplicacion\MashUp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Equipo\Desktop\mashup\aplicacion\MashUp\bin\roslyn\System.AppContext.dll
+C:\Users\Equipo\Desktop\mashup\aplicacion\MashUp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Equipo\Desktop\mashup\aplicacion\MashUp\bin\roslyn\System.Console.dll
+C:\Users\Equipo\Desktop\mashup\aplicacion\MashUp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Equipo\Desktop\mashup\aplicacion\MashUp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Equipo\Desktop\mashup\aplicacion\MashUp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Equipo\Desktop\mashup\aplicacion\MashUp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Equipo\Desktop\mashup\aplicacion\MashUp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Equipo\Desktop\mashup\aplicacion\MashUp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Equipo\Desktop\mashup\aplicacion\MashUp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Equipo\Desktop\mashup\aplicacion\MashUp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Equipo\Desktop\mashup\aplicacion\MashUp\bin\roslyn\System.Net.Http.dll
+C:\Users\Equipo\Desktop\mashup\aplicacion\MashUp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Equipo\Desktop\mashup\aplicacion\MashUp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Equipo\Desktop\mashup\aplicacion\MashUp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Equipo\Desktop\mashup\aplicacion\MashUp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Equipo\Desktop\mashup\aplicacion\MashUp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Equipo\Desktop\mashup\aplicacion\MashUp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Equipo\Desktop\mashup\aplicacion\MashUp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Equipo\Desktop\mashup\aplicacion\MashUp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Equipo\Desktop\mashup\aplicacion\MashUp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Equipo\Desktop\mashup\aplicacion\MashUp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Equipo\Desktop\mashup\aplicacion\MashUp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Equipo\Desktop\mashup\aplicacion\MashUp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Equipo\Desktop\mashup\aplicacion\MashUp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Equipo\Desktop\mashup\aplicacion\MashUp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Equipo\Desktop\mashup\aplicacion\MashUp\bin\roslyn\vbc.exe
+C:\Users\Equipo\Desktop\mashup\aplicacion\MashUp\bin\roslyn\vbc.exe.config
+C:\Users\Equipo\Desktop\mashup\aplicacion\MashUp\bin\roslyn\vbc.rsp
+C:\Users\Equipo\Desktop\mashup\aplicacion\MashUp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Equipo\Desktop\mashup\aplicacion\MashUp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Phenom_01_21\Desktop\aplicacion\aplicacion\MashUp\bin\MashUp.dll.config
+C:\Users\Phenom_01_21\Desktop\aplicacion\aplicacion\MashUp\bin\MashUp.dll
+C:\Users\Phenom_01_21\Desktop\aplicacion\aplicacion\MashUp\bin\MashUp.pdb
+C:\Users\Phenom_01_21\Desktop\aplicacion\aplicacion\MashUp\bin\roslyn\csc.exe
+C:\Users\Phenom_01_21\Desktop\aplicacion\aplicacion\MashUp\bin\roslyn\csc.exe.config
+C:\Users\Phenom_01_21\Desktop\aplicacion\aplicacion\MashUp\bin\roslyn\csc.rsp
+C:\Users\Phenom_01_21\Desktop\aplicacion\aplicacion\MashUp\bin\roslyn\csi.exe
+C:\Users\Phenom_01_21\Desktop\aplicacion\aplicacion\MashUp\bin\roslyn\csi.exe.config
+C:\Users\Phenom_01_21\Desktop\aplicacion\aplicacion\MashUp\bin\roslyn\csi.rsp
+C:\Users\Phenom_01_21\Desktop\aplicacion\aplicacion\MashUp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Phenom_01_21\Desktop\aplicacion\aplicacion\MashUp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Phenom_01_21\Desktop\aplicacion\aplicacion\MashUp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Phenom_01_21\Desktop\aplicacion\aplicacion\MashUp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Phenom_01_21\Desktop\aplicacion\aplicacion\MashUp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Phenom_01_21\Desktop\aplicacion\aplicacion\MashUp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Phenom_01_21\Desktop\aplicacion\aplicacion\MashUp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Phenom_01_21\Desktop\aplicacion\aplicacion\MashUp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Phenom_01_21\Desktop\aplicacion\aplicacion\MashUp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Phenom_01_21\Desktop\aplicacion\aplicacion\MashUp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Phenom_01_21\Desktop\aplicacion\aplicacion\MashUp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Phenom_01_21\Desktop\aplicacion\aplicacion\MashUp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Phenom_01_21\Desktop\aplicacion\aplicacion\MashUp\bin\roslyn\System.AppContext.dll
+C:\Users\Phenom_01_21\Desktop\aplicacion\aplicacion\MashUp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Phenom_01_21\Desktop\aplicacion\aplicacion\MashUp\bin\roslyn\System.Console.dll
+C:\Users\Phenom_01_21\Desktop\aplicacion\aplicacion\MashUp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Phenom_01_21\Desktop\aplicacion\aplicacion\MashUp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Phenom_01_21\Desktop\aplicacion\aplicacion\MashUp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Phenom_01_21\Desktop\aplicacion\aplicacion\MashUp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Phenom_01_21\Desktop\aplicacion\aplicacion\MashUp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Phenom_01_21\Desktop\aplicacion\aplicacion\MashUp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Phenom_01_21\Desktop\aplicacion\aplicacion\MashUp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Phenom_01_21\Desktop\aplicacion\aplicacion\MashUp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Phenom_01_21\Desktop\aplicacion\aplicacion\MashUp\bin\roslyn\System.Net.Http.dll
+C:\Users\Phenom_01_21\Desktop\aplicacion\aplicacion\MashUp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Phenom_01_21\Desktop\aplicacion\aplicacion\MashUp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Phenom_01_21\Desktop\aplicacion\aplicacion\MashUp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Phenom_01_21\Desktop\aplicacion\aplicacion\MashUp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Phenom_01_21\Desktop\aplicacion\aplicacion\MashUp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Phenom_01_21\Desktop\aplicacion\aplicacion\MashUp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Phenom_01_21\Desktop\aplicacion\aplicacion\MashUp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Phenom_01_21\Desktop\aplicacion\aplicacion\MashUp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Phenom_01_21\Desktop\aplicacion\aplicacion\MashUp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Phenom_01_21\Desktop\aplicacion\aplicacion\MashUp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Phenom_01_21\Desktop\aplicacion\aplicacion\MashUp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Phenom_01_21\Desktop\aplicacion\aplicacion\MashUp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Phenom_01_21\Desktop\aplicacion\aplicacion\MashUp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Phenom_01_21\Desktop\aplicacion\aplicacion\MashUp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Phenom_01_21\Desktop\aplicacion\aplicacion\MashUp\bin\roslyn\vbc.exe
+C:\Users\Phenom_01_21\Desktop\aplicacion\aplicacion\MashUp\bin\roslyn\vbc.exe.config
+C:\Users\Phenom_01_21\Desktop\aplicacion\aplicacion\MashUp\bin\roslyn\vbc.rsp
+C:\Users\Phenom_01_21\Desktop\aplicacion\aplicacion\MashUp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Phenom_01_21\Desktop\aplicacion\aplicacion\MashUp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Phenom_01_21\Desktop\aplicacion\aplicacion\MashUp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Phenom_01_21\Desktop\aplicacion\aplicacion\MashUp\bin\Newtonsoft.Json.dll
+C:\Users\Phenom_01_21\Desktop\aplicacion\aplicacion\MashUp\bin\Newtonsoft.Json.xml
+C:\Users\Phenom_01_21\Desktop\aplicacion\aplicacion\MashUp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Phenom_01_21\Desktop\aplicacion\aplicacion\MashUp\obj\Debug\MashUp.csproj.AssemblyReference.cache
+C:\Users\Phenom_01_21\Desktop\aplicacion\aplicacion\MashUp\obj\Debug\MashUp.csproj.CoreCompileInputs.cache
+C:\Users\Phenom_01_21\Desktop\aplicacion\aplicacion\MashUp\obj\Debug\MashUp.csproj.CopyComplete
+C:\Users\Phenom_01_21\Desktop\aplicacion\aplicacion\MashUp\obj\Debug\MashUp.dll
+C:\Users\Phenom_01_21\Desktop\aplicacion\aplicacion\MashUp\obj\Debug\MashUp.pdb
+C:\Users\LEONARDO\Documents\CUATRIMESTRE 4\Apps Web\PRODUCTO 3\aplicacion-main\aplicacion-main\MashUp\bin\MashUp.dll.config
+C:\Users\LEONARDO\Documents\CUATRIMESTRE 4\Apps Web\PRODUCTO 3\aplicacion-main\aplicacion-main\MashUp\bin\MashUp.dll
+C:\Users\LEONARDO\Documents\CUATRIMESTRE 4\Apps Web\PRODUCTO 3\aplicacion-main\aplicacion-main\MashUp\bin\MashUp.pdb
+C:\Users\LEONARDO\Documents\CUATRIMESTRE 4\Apps Web\PRODUCTO 3\aplicacion-main\aplicacion-main\MashUp\bin\roslyn\csc.exe
+C:\Users\LEONARDO\Documents\CUATRIMESTRE 4\Apps Web\PRODUCTO 3\aplicacion-main\aplicacion-main\MashUp\bin\roslyn\csc.exe.config
+C:\Users\LEONARDO\Documents\CUATRIMESTRE 4\Apps Web\PRODUCTO 3\aplicacion-main\aplicacion-main\MashUp\bin\roslyn\csc.rsp
+C:\Users\LEONARDO\Documents\CUATRIMESTRE 4\Apps Web\PRODUCTO 3\aplicacion-main\aplicacion-main\MashUp\bin\roslyn\csi.exe
+C:\Users\LEONARDO\Documents\CUATRIMESTRE 4\Apps Web\PRODUCTO 3\aplicacion-main\aplicacion-main\MashUp\bin\roslyn\csi.exe.config
+C:\Users\LEONARDO\Documents\CUATRIMESTRE 4\Apps Web\PRODUCTO 3\aplicacion-main\aplicacion-main\MashUp\bin\roslyn\csi.rsp
+C:\Users\LEONARDO\Documents\CUATRIMESTRE 4\Apps Web\PRODUCTO 3\aplicacion-main\aplicacion-main\MashUp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LEONARDO\Documents\CUATRIMESTRE 4\Apps Web\PRODUCTO 3\aplicacion-main\aplicacion-main\MashUp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LEONARDO\Documents\CUATRIMESTRE 4\Apps Web\PRODUCTO 3\aplicacion-main\aplicacion-main\MashUp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\LEONARDO\Documents\CUATRIMESTRE 4\Apps Web\PRODUCTO 3\aplicacion-main\aplicacion-main\MashUp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LEONARDO\Documents\CUATRIMESTRE 4\Apps Web\PRODUCTO 3\aplicacion-main\aplicacion-main\MashUp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\LEONARDO\Documents\CUATRIMESTRE 4\Apps Web\PRODUCTO 3\aplicacion-main\aplicacion-main\MashUp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LEONARDO\Documents\CUATRIMESTRE 4\Apps Web\PRODUCTO 3\aplicacion-main\aplicacion-main\MashUp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LEONARDO\Documents\CUATRIMESTRE 4\Apps Web\PRODUCTO 3\aplicacion-main\aplicacion-main\MashUp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\LEONARDO\Documents\CUATRIMESTRE 4\Apps Web\PRODUCTO 3\aplicacion-main\aplicacion-main\MashUp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\LEONARDO\Documents\CUATRIMESTRE 4\Apps Web\PRODUCTO 3\aplicacion-main\aplicacion-main\MashUp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\LEONARDO\Documents\CUATRIMESTRE 4\Apps Web\PRODUCTO 3\aplicacion-main\aplicacion-main\MashUp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LEONARDO\Documents\CUATRIMESTRE 4\Apps Web\PRODUCTO 3\aplicacion-main\aplicacion-main\MashUp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\LEONARDO\Documents\CUATRIMESTRE 4\Apps Web\PRODUCTO 3\aplicacion-main\aplicacion-main\MashUp\bin\roslyn\System.AppContext.dll
+C:\Users\LEONARDO\Documents\CUATRIMESTRE 4\Apps Web\PRODUCTO 3\aplicacion-main\aplicacion-main\MashUp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LEONARDO\Documents\CUATRIMESTRE 4\Apps Web\PRODUCTO 3\aplicacion-main\aplicacion-main\MashUp\bin\roslyn\System.Console.dll
+C:\Users\LEONARDO\Documents\CUATRIMESTRE 4\Apps Web\PRODUCTO 3\aplicacion-main\aplicacion-main\MashUp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LEONARDO\Documents\CUATRIMESTRE 4\Apps Web\PRODUCTO 3\aplicacion-main\aplicacion-main\MashUp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\LEONARDO\Documents\CUATRIMESTRE 4\Apps Web\PRODUCTO 3\aplicacion-main\aplicacion-main\MashUp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\LEONARDO\Documents\CUATRIMESTRE 4\Apps Web\PRODUCTO 3\aplicacion-main\aplicacion-main\MashUp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\LEONARDO\Documents\CUATRIMESTRE 4\Apps Web\PRODUCTO 3\aplicacion-main\aplicacion-main\MashUp\bin\roslyn\System.IO.Compression.dll
+C:\Users\LEONARDO\Documents\CUATRIMESTRE 4\Apps Web\PRODUCTO 3\aplicacion-main\aplicacion-main\MashUp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\LEONARDO\Documents\CUATRIMESTRE 4\Apps Web\PRODUCTO 3\aplicacion-main\aplicacion-main\MashUp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\LEONARDO\Documents\CUATRIMESTRE 4\Apps Web\PRODUCTO 3\aplicacion-main\aplicacion-main\MashUp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\LEONARDO\Documents\CUATRIMESTRE 4\Apps Web\PRODUCTO 3\aplicacion-main\aplicacion-main\MashUp\bin\roslyn\System.Net.Http.dll
+C:\Users\LEONARDO\Documents\CUATRIMESTRE 4\Apps Web\PRODUCTO 3\aplicacion-main\aplicacion-main\MashUp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\LEONARDO\Documents\CUATRIMESTRE 4\Apps Web\PRODUCTO 3\aplicacion-main\aplicacion-main\MashUp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LEONARDO\Documents\CUATRIMESTRE 4\Apps Web\PRODUCTO 3\aplicacion-main\aplicacion-main\MashUp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\LEONARDO\Documents\CUATRIMESTRE 4\Apps Web\PRODUCTO 3\aplicacion-main\aplicacion-main\MashUp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\LEONARDO\Documents\CUATRIMESTRE 4\Apps Web\PRODUCTO 3\aplicacion-main\aplicacion-main\MashUp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\LEONARDO\Documents\CUATRIMESTRE 4\Apps Web\PRODUCTO 3\aplicacion-main\aplicacion-main\MashUp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\LEONARDO\Documents\CUATRIMESTRE 4\Apps Web\PRODUCTO 3\aplicacion-main\aplicacion-main\MashUp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\LEONARDO\Documents\CUATRIMESTRE 4\Apps Web\PRODUCTO 3\aplicacion-main\aplicacion-main\MashUp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\LEONARDO\Documents\CUATRIMESTRE 4\Apps Web\PRODUCTO 3\aplicacion-main\aplicacion-main\MashUp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\LEONARDO\Documents\CUATRIMESTRE 4\Apps Web\PRODUCTO 3\aplicacion-main\aplicacion-main\MashUp\bin\roslyn\System.ValueTuple.dll
+C:\Users\LEONARDO\Documents\CUATRIMESTRE 4\Apps Web\PRODUCTO 3\aplicacion-main\aplicacion-main\MashUp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\LEONARDO\Documents\CUATRIMESTRE 4\Apps Web\PRODUCTO 3\aplicacion-main\aplicacion-main\MashUp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\LEONARDO\Documents\CUATRIMESTRE 4\Apps Web\PRODUCTO 3\aplicacion-main\aplicacion-main\MashUp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\LEONARDO\Documents\CUATRIMESTRE 4\Apps Web\PRODUCTO 3\aplicacion-main\aplicacion-main\MashUp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\LEONARDO\Documents\CUATRIMESTRE 4\Apps Web\PRODUCTO 3\aplicacion-main\aplicacion-main\MashUp\bin\roslyn\vbc.exe
+C:\Users\LEONARDO\Documents\CUATRIMESTRE 4\Apps Web\PRODUCTO 3\aplicacion-main\aplicacion-main\MashUp\bin\roslyn\vbc.exe.config
+C:\Users\LEONARDO\Documents\CUATRIMESTRE 4\Apps Web\PRODUCTO 3\aplicacion-main\aplicacion-main\MashUp\bin\roslyn\vbc.rsp
+C:\Users\LEONARDO\Documents\CUATRIMESTRE 4\Apps Web\PRODUCTO 3\aplicacion-main\aplicacion-main\MashUp\bin\roslyn\VBCSCompiler.exe
+C:\Users\LEONARDO\Documents\CUATRIMESTRE 4\Apps Web\PRODUCTO 3\aplicacion-main\aplicacion-main\MashUp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LEONARDO\Documents\CUATRIMESTRE 4\Apps Web\PRODUCTO 3\aplicacion-main\aplicacion-main\MashUp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LEONARDO\Documents\CUATRIMESTRE 4\Apps Web\PRODUCTO 3\aplicacion-main\aplicacion-main\MashUp\bin\Newtonsoft.Json.dll
+C:\Users\LEONARDO\Documents\CUATRIMESTRE 4\Apps Web\PRODUCTO 3\aplicacion-main\aplicacion-main\MashUp\bin\Newtonsoft.Json.xml
+C:\Users\LEONARDO\Documents\CUATRIMESTRE 4\Apps Web\PRODUCTO 3\aplicacion-main\aplicacion-main\MashUp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LEONARDO\Documents\CUATRIMESTRE 4\Apps Web\PRODUCTO 3\aplicacion-main\aplicacion-main\MashUp\obj\Debug\MashUp.csproj.AssemblyReference.cache
+C:\Users\LEONARDO\Documents\CUATRIMESTRE 4\Apps Web\PRODUCTO 3\aplicacion-main\aplicacion-main\MashUp\obj\Debug\MashUp.csproj.CoreCompileInputs.cache
+C:\Users\LEONARDO\Documents\CUATRIMESTRE 4\Apps Web\PRODUCTO 3\aplicacion-main\aplicacion-main\MashUp\obj\Debug\MashUp.csproj.CopyComplete
+C:\Users\LEONARDO\Documents\CUATRIMESTRE 4\Apps Web\PRODUCTO 3\aplicacion-main\aplicacion-main\MashUp\obj\Debug\MashUp.dll
+C:\Users\LEONARDO\Documents\CUATRIMESTRE 4\Apps Web\PRODUCTO 3\aplicacion-main\aplicacion-main\MashUp\obj\Debug\MashUp.pdb
