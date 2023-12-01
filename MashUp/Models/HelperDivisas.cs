@@ -8,6 +8,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
+// Manejador de Helper divisas ( Monedas y su cambio )
 namespace MashUp.Models
 {
     public class HelperDivisas

@@ -10,6 +10,7 @@ namespace MashUp
 {
     public partial class index : System.Web.UI.Page
     {
+        // Declaración de instancias de las clases Helper
         HelperPuebla Helper;
         HelperPuebla otroHelper;
         Helper NuevoHelper;
@@ -24,7 +25,7 @@ namespace MashUp
             helperGaso = new HelperGasolina();
             helperDivisa = new HelperDivisas();
         }
-
+        // Método que se ejecuta al cargar la página
         protected async void Page_Load(object sender, EventArgs e)
         {
 
@@ -32,7 +33,7 @@ namespace MashUp
 
             await Helper.ObtenerDatosPuebla("18.833333", "-98.0");
 
-
+            // Asignación de valores a controles en la página
             Label2.Text = Helper.ObtenerNombre();
             LabelTempActual.Text = Helper.ObtenerTemperatura();
             LabelTempMaxima.Text = Helper.ObtenerTemperaturaMaxima();
@@ -47,6 +48,7 @@ namespace MashUp
 
             if (!IsPostBack)
             {
+                // Métodos adicionales para obtener datos climatológicos y de la ciudad
                 await helperDivisa.ObtenerDivisa();
                 ObtenerMoneda();
                 NuevoHelper.ciudad = "Puebla";
@@ -54,7 +56,8 @@ namespace MashUp
                 await NuevoHelper.ObtenerData();
                 labelError.Text = "";
                 await otroHelper.ObtenerDatosPuebla(NuevoHelper.obtenerLatitud(), NuevoHelper.obtenerLongitud());
-
+                
+                // Asignación de valores adicionales a controles en la página
                 nombre.Text = otroHelper.ObtenerNombre();
                 temp.Text = otroHelper.ObtenerTemperatura();
                 tempMin.Text = otroHelper.ObtenerTemperaturaMinima();
@@ -69,9 +72,10 @@ namespace MashUp
 
 
         }
-
+        // Manejador de eventos para el botón de consulta de gasolina
         protected async void Button1_Click(object sender, EventArgs e)
         {
+            // Lógica para obtener datos de gasolina y clima
             helperGaso.ciudad = labelCiudad.Text;
 
 
@@ -126,12 +130,15 @@ namespace MashUp
                 }
 
             }
+            // Asignación de valores a controles adicionales
             gasolina.Attributes.Add("src", $"https://petrointelligence.com/api/api_precios.html?consulta=estado&estado={helperGaso.ObtenerAbreviatura()}");
             
 
         }
+        // Método para obtener datos de monedas y llenar DropDownList
         protected void ObtenerMoneda()
         {
+            // Lista de monedas
             List<string> monedas = new List<string> {
                 "ARS", "AUD", "BCH", "USD", "BGN", "BNB", "BRL", "BTC", "CAD", "CHF", "CNY",
             "CZK", "DKK", "DOGE", "DZD", "ETH", "EUR", "GBP", "HKD", "HRK", "HUF",
@@ -140,6 +147,7 @@ namespace MashUp
             "TWD", "XRP", "ZAR"
             };
 
+            // Llenar DropDownList con monedas
             foreach (string moneda in monedas)
             {
                 DropDownList1.Items.Add(new ListItem(moneda));
@@ -148,14 +156,16 @@ namespace MashUp
             }
         }
 
+        // Manejador de eventos para el botón de conversión de monedas
         protected async void Button2_Click(object sender, EventArgs e)
         {
-
+            // Lógica para la conversión de monedas
             helperDivisa.monedaNativa = DropDownList1.SelectedValue.ToString();
             helperDivisa.monedaObjetivo = DropDownList2.SelectedValue.ToString();
 
             helperDivisa.monto = montoDeseado.Text;
             await helperDivisa.ObtenerDivisa();
+            // Asignación de valores al control de resultado
             resultadoConversion.Text = helperDivisa.ObtenerMonto();
 
             

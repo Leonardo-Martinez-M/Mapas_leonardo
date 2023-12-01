@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 using System.Web;
 using static MashUp.Models.Location;
 
+//Manejador de la clase Data helper (Direccion, Longitud y latitud atraves de ciudad y pais)
 namespace MashUp.Models
 {
     public class Helper
@@ -88,7 +89,7 @@ namespace MashUp.Models
 
 
       
-
+        //Funcion para obtener Latitud
         public string obtenerLatitud()
         {
             if(root == null)
@@ -103,6 +104,7 @@ namespace MashUp.Models
 
 
         }
+        //Funcion para obtener Longiud 
         public string obtenerLongitud()
         {
             if(root == null)

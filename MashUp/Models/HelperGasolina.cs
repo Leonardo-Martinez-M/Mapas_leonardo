@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 
+// Manejo de gasolinas por abreviatura 
 namespace MashUp.Models
 {
     public class HelperGasolina
@@ -207,6 +208,7 @@ namespace MashUp.Models
             });
 
         }
+        //Funcion para la abreviatura
         public string ObtenerAbreviatura()
         {
             string abreviatura = "";

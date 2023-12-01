@@ -7,9 +7,3 @@
     font-size: 15px;
     font-weight: bold;
 }
-
-.MapaUbicacion{
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Ajusta los valores según tus preferencias */
-    border: none; /* Para quitar el borde predeterminado del iframe */
-}
-
